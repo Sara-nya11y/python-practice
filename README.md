@@ -12,6 +12,7 @@ Nenu Python nerchukune kramam lo rasina programs. Prati program ki comments add 
 | File Name | Concept | Description |
 | --- | --- | --- |
 | `01_hello_world.py` | Basics | Modati Python program - text print cheyadam |
+| `02_calculator.py` | Input, If-Else | 2 numbers tho basic calculator |
 
 ### ▶️ Ela Run Cheyali
 1. Repo ni clone chey: `git clone https://github.com/Sara-nya11y/python-practice.git`

@@ -17,6 +17,9 @@ Nenu Python nerchukune kramam lo rasina programs. Prati program ki comments add 
 | `factorial.py` | For Loop, If-Else | Calculates factorial of a given number. Ex: 5! = 120 |
 | `reverse_number.py` | While Loop, Math | Reverses the digits of a given number. Ex: 123 → 321 |
 | `palindrome.py` | Strings, If-Else | Checks if a given string reads the same forwards and backwards |
+| `armstrong_number.py` | While Loop, Math | Checks if number equals sum of cubes of digits. Ex: 153 |
+| `sum_of_digits.py` | While Loop, Math | Adds all digits of a number. Ex: 1234 → 10 |
+| `count_words.py` | Strings, Split | Counts words in a sentence. Ex: "Hi ra" → 2 |
 
 ### ▶️ Ela Run Cheyali
 1. Repo ni clone chey: `git clone https://github.com/Sara-nya11y/python-practice.git`

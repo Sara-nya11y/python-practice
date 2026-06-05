@@ -20,6 +20,10 @@ Nenu Python nerchukune kramam lo rasina programs. Prati program ki comments add 
 | `armstrong_number.py` | While Loop, Math | Checks if number equals sum of cubes of digits. Ex: 153 |
 | `sum_of_digits.py` | While Loop, Math | Adds all digits of a number. Ex: 1234 → 10 |
 | `count_words.py` | Strings, Split | Counts words in a sentence. Ex: "Hi ra" → 2 |
+| `prime_number.py` | For Loop, If-Else, Math | Check if a number is prime or not. Ex: 7 → Prime |
+| `fibonacci.py` | For Loop, Variables | Print Fibonacci series up to n terms. Ex: 5 → 0 1 1 2 3 |
+| `star_pattern.py` | Nested Loops | Print right-angle triangle star pattern. Ex: n=3 → * ** *** |
+| `second_largest.py` | List, Set, Sort | Find second largest element in a list. Ex:
 
 ### ▶️ Ela Run Cheyali
 1. Repo ni clone chey: `git clone https://github.com/Sara-nya11y/python-practice.git`

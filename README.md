@@ -23,7 +23,8 @@ Nenu Python nerchukune kramam lo rasina programs. Prati program ki comments add 
 | `prime_number.py` | For Loop, If-Else, Math | Check if a number is prime or not. Ex: 7 → Prime |
 | `fibonacci.py` | For Loop, Variables | Print Fibonacci series up to n terms. Ex: 5 → 0 1 1 2 3 |
 | `star_pattern.py` | Nested Loops | Print right-angle triangle star pattern. Ex: n=3 → * ** *** |
-| `second_largest.py` | List, Set, Sort | Find second largest element in a list. Ex:
+| `second_largest.py` | List, Set, Sort | Find second largest element in a list. 
+| `password_generator.py` | Random, String, CLI | Generate strong passwords with custom length & options |
 
 ### ▶️ Ela Run Cheyali
 1. Repo ni clone chey: `git clone https://github.com/Sara-nya11y/python-practice.git`

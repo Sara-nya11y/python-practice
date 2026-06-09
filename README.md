@@ -25,6 +25,8 @@ Nenu Python nerchukune kramam lo rasina programs. Prati program ki comments add 
 | `star_pattern.py` | Nested Loops | Print right-angle triangle star pattern. Ex: n=3 → * ** *** |
 | `second_largest.py` | List, Set, Sort | Find second largest element in a list. 
 | `password_generator.py` | Random, String, CLI | Generate strong passwords with custom length & options |
+| `dice_roller.py` | Random, Input | Rolls a dice from 1 to 6. Simple game, just press Enter to play |
+| `age_in_days.py` | Math, Input, Try-Except | Converts your age to days. Easy math for beginners |
 
 ### ▶️ Ela Run Cheyali
 1. Repo ni clone chey: `git clone https://github.com/Sara-nya11y/python-practice.git`

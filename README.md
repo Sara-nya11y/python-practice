@@ -27,6 +27,9 @@ Nenu Python nerchukune kramam lo rasina programs. Prati program ki comments add 
 | `password_generator.py` | Random, String, CLI | Generate strong passwords with custom length & options |
 | `dice_roller.py` | Random, Input | Rolls a dice from 1 to 6. Simple game, just press Enter to play |
 | `age_in_days.py` | Math, Input, Try-Except | Converts your age to days. Easy math for beginners |
+| leap_year.py | If-Else, Operators | Checks if a given year is leap year or not. Ex: 2024 → Leap Year |
+| swap_numbers.py | Variables, Input | Swaps two numbers without using third variable. Ex: a=5 b=10 → a=10 b=5 |
+| find_max.py | List, Built-in | Finds maximum number from a list of numbers. Ex: 3 8 1 → 8 |
 
 ### ▶️ Ela Run Cheyali
 1. Repo ni clone chey: `git clone https://github.com/Sara-nya11y/python-practice.git`

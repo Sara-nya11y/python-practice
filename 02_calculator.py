@@ -1,9 +1,4 @@
-# Program: Simple Calculator
-# Concept: Input, Variables, If-Else, Operators
-# Author: Sara-nya11y
-# Description: User nunchi 2 numbers teeskuni +, -, *, / operation chestadi.
 
-# User nunchi modati number teeskuntunnam
 num1 = float(input("Modati number ivvu: "))
 
 # Rendo number teeskuntunnam  

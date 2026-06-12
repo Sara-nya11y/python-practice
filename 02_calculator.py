@@ -1,4 +1,4 @@
-
+uu
 num1 = float(input("Modati number ivvu: "))
 
 # Rendo number teeskuntunnam  
@@ -27,3 +27,4 @@ elif operator == '/':
         print("Result:", result)
 else:
     print("Invalid operator! +, -, *, / lo okati ivvu")
+#this is important 

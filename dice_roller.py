@@ -8,3 +8,5 @@ print(f"Nuvvu kottindhi: {dice} 🎲")
 
 if dice == 6:
     print("Super! 6 vachindhi 🔥")
+
+# this is important 

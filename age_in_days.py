@@ -9,6 +9,4 @@ except ValueError:
     print("Number ivvu chitti")
 
 
-#3
-
 

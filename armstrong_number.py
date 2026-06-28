@@ -14,7 +14,7 @@ while temp > 0:
 
 print("Armstrong" if sum == n else "Not Armstrong")
 
-
+#4
 
 
 

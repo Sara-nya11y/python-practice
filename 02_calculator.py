@@ -28,7 +28,6 @@ elif operator == '/':
 else:
     print("Invalid operator! +, -, *, / lo okati ivvu")
 
-#2
 
 
 

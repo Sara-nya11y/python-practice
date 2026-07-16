@@ -7,7 +7,6 @@ try:
     print(f"Exact ga cheppalante leap years kuda lekapovali")
 except ValueError:
     print("Number ivvu chitti")
-#3
 
 
 

@@ -1,4 +1,4 @@
-#1
+
 import random
 
 print("--- Dice Roller ---")

@@ -5,4 +5,3 @@ if num % 2 == 0:
 else:
     print(num, "Odd number ra")
 
-#important 

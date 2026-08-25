@@ -1,4 +1,4 @@
-#4
+
 # Program: Armstrong Number Checker
 # Concept: While loop, Modulus, Exponents
 # Author: Sara-nya11y

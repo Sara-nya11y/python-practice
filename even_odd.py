@@ -1,3 +1,4 @@
+#7
 num = int(input("Oka number kotti chitti: "))
 
 if num % 2 == 0:
